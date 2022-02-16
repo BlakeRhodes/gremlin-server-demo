@@ -1,4 +1,4 @@
-#Graph Demo
+# Graph Demo
 This is an example of an api demonstrating the tinkerpop library. Included is a script db.sh that will start a docker 
 container running the apache gremlin-server.
 
